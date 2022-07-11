@@ -1,0 +1,15 @@
+C:\Users\josep\OneDrive\Desktop\Repos\Methodsoverload\Methodsoverload\bin\Debug\net6.0\Methodsoverload.exe
+C:\Users\josep\OneDrive\Desktop\Repos\Methodsoverload\Methodsoverload\bin\Debug\net6.0\Methodsoverload.deps.json
+C:\Users\josep\OneDrive\Desktop\Repos\Methodsoverload\Methodsoverload\bin\Debug\net6.0\Methodsoverload.runtimeconfig.json
+C:\Users\josep\OneDrive\Desktop\Repos\Methodsoverload\Methodsoverload\bin\Debug\net6.0\Methodsoverload.dll
+C:\Users\josep\OneDrive\Desktop\Repos\Methodsoverload\Methodsoverload\bin\Debug\net6.0\Methodsoverload.pdb
+C:\Users\josep\OneDrive\Desktop\Repos\Methodsoverload\Methodsoverload\obj\Debug\net6.0\Methodsoverload.csproj.AssemblyReference.cache
+C:\Users\josep\OneDrive\Desktop\Repos\Methodsoverload\Methodsoverload\obj\Debug\net6.0\Methodsoverload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\OneDrive\Desktop\Repos\Methodsoverload\Methodsoverload\obj\Debug\net6.0\Methodsoverload.AssemblyInfoInputs.cache
+C:\Users\josep\OneDrive\Desktop\Repos\Methodsoverload\Methodsoverload\obj\Debug\net6.0\Methodsoverload.AssemblyInfo.cs
+C:\Users\josep\OneDrive\Desktop\Repos\Methodsoverload\Methodsoverload\obj\Debug\net6.0\Methodsoverload.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Desktop\Repos\Methodsoverload\Methodsoverload\obj\Debug\net6.0\Methodsoverload.dll
+C:\Users\josep\OneDrive\Desktop\Repos\Methodsoverload\Methodsoverload\obj\Debug\net6.0\refint\Methodsoverload.dll
+C:\Users\josep\OneDrive\Desktop\Repos\Methodsoverload\Methodsoverload\obj\Debug\net6.0\Methodsoverload.pdb
+C:\Users\josep\OneDrive\Desktop\Repos\Methodsoverload\Methodsoverload\obj\Debug\net6.0\Methodsoverload.genruntimeconfig.cache
+C:\Users\josep\OneDrive\Desktop\Repos\Methodsoverload\Methodsoverload\obj\Debug\net6.0\ref\Methodsoverload.dll
